@@ -51,3 +51,7 @@
     Si se presentan en pdf deberán añadirse los scripts o códigos. 
 
 -- 40% Proyecto final 
+
+## Bibliografía
+
+    Se proporciona durante el curso, conforme se usa. 
