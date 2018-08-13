@@ -1,1 +1,1 @@
-ALL PROJECTS MADE ON THIS MONTH WILL BE HERE
+Todos los proyectos realizados en Agosto estaran aqui. 
