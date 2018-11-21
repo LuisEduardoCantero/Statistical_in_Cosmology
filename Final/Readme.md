@@ -1,0 +1,1 @@
+20-Nov: Se comezo a leer el articulo del proyecto final. Estoy buscando cual es el archivo de la matriz de covarianza mas actualizado. Tambien estoy guardando notas importantes sobre el articulo en el archivo 'Proyecto_final.ipynb'.
