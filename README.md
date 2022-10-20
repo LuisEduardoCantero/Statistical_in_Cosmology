@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Métodos Estadísticos en Cosmología 
 ## DCI-UGTO 2018
 
@@ -55,3 +56,6 @@
 ## Bibliografía
 
     Se proporciona durante el curso, conforme se usa. 
+=======
+# Statistical_in_cosmology
+>>>>>>> 43ecef03f79bbb87d16d565ffe6a34855ce493aa
