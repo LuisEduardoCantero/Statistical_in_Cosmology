@@ -1,10 +1,5 @@
-<<<<<<< HEAD
+
 # Métodos Estadísticos en Cosmología 
-## DCI-UGTO 2018
-
-### Prof. Alma González & Gustavo Niz
-### email: alma.gonzalez@fisica.ugto.mx, g.niz@ugto.mx 
-
 
 ## TEMAS
 
@@ -42,20 +37,3 @@
     b) Error de funciones de orden inferior
     
     c) Espacio de Fourier
-
-
-## Evaluación
-
--- 60 %  Tareas y Proyectos parciales. Github organizado. Se revisa continuamente.
-
-    -- Tareas y proyectos preferentemente en jupyter notebooks. 
-    Si se presentan en pdf deberán añadirse los scripts o códigos. 
-
--- 40% Proyecto final 
-
-## Bibliografía
-
-    Se proporciona durante el curso, conforme se usa. 
-=======
-# Statistical_in_cosmology
->>>>>>> 43ecef03f79bbb87d16d565ffe6a34855ce493aa
